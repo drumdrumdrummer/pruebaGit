@@ -1,2 +1,4 @@
 Creo el fichero
 pongo el titulo:
+se corrige un bug
+
