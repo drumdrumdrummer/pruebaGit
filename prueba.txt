@@ -1,4 +1,3 @@
 Creo el fichero
 pongo el titulo:
-se corrige un bug
-
+se corrige un bug y sd añade una nueva funcionalidadº
